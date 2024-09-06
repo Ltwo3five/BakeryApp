@@ -1,5 +1,4 @@
 # BakeryInventory
-Rest Api for a Bakery Inventory
 
 Entity relationship Diagram
 
